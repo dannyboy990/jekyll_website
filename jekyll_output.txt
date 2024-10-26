@@ -1,0 +1,16 @@
+Fetching gem metadata from https://rubygems.org/........
+Resolving dependencies...
+Could not find compatible versions
+
+Because jekyll-diagrams >= 0.4.0, < 0.5.0 depends on jekyll ~> 3.6
+  and jekyll-diagrams < 0.4.0 depends on jekyll ~> 3.1.0,
+  jekyll-diagrams < 0.5.0 requires jekyll ~> 3.1.0 OR ~> 3.6.
+And because jekyll-diagrams >= 0.5.0, < 0.9.3 depends on jekyll >= 3.7, < 5.0
+  and jekyll-include-cache < 0.2.0 depends on jekyll ~> 3.3,
+  if jekyll-include-cache < 0.2.0 and jekyll-diagrams < 0.9.3 then jekyll >= 3.6, < 4.A.
+And because jekyll-include-cache >= 0.2.0 depends on jekyll >= 3.7, < 5.0
+  and jekyll-diagrams >= 0.9.3 depends on jekyll >= 3.8, < 5.0,
+  jekyll >= 3.6, < 5.0 is required.
+So, because jekyll >= 3.5.0 depends on liquid ~> 4.0
+  and Gemfile depends on liquid ~> 5.5.1,
+  version solving has failed.
