@@ -1,0 +1,21 @@
+---
+layout: page
+permalink: /publications/
+title: Research 
+
+
+description:  
+nav: true
+nav_order: 1
+---
+<!-- _pages/publications.md -->
+# Working Papers
+
+<div class="publications">
+
+{% bibliography -f {{ site.scholar.bibliography }} %}
+
+</div>
+
+
+

@@ -1,0 +1,33 @@
+# Jekyll build files and caches
+_site/
+.bundle/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+.tweet-cache/
+
+# System files
+.DS_Store
+.ruby-version
+
+# Node modules
+node_modules/
+
+# Gem files
+Gemfile.lock
+vendor/
+
+# Ignore all files under HOME/gems
+HOME/
+gems/
+*.la
+
+# Explicit path for problematic ffi file
+HOME/gems/gems/ffi-1.17.0/ext/ffi_c/libffi-x86_64-linux-gnu/.libs/libffi.la
+
+# Log and error files
+*.txt
+jekyll_er*
+nodejs_error*
+path_output.txt
+install_error*.txt
