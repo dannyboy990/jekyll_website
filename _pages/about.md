@@ -33,3 +33,6 @@ I completed my PhD in Finance at **Tel-Aviv University in 2022**. My primary are
 </div>
 
 
+<div class="cv-widget">
+    <a href="https://1drv.ms/b/s!AoN-rrIppbFxidBkFcw1p5XGwOQZew?e=L7cw87" download>Download my CV</a>
+</div>
