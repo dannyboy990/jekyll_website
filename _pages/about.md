@@ -24,8 +24,6 @@ I am a **Senior Research Economist** at the Monetary Department of the **Bank of
 
 I completed my PhD in Finance at **Tel-Aviv University in 2022**. My primary area of interest lies in exploring the intersection between **finance and macroeconomics**, and find great satisfaction in conducting research in this field.
 
-
-
 <div class="cv-widget">
     <a href="https://1drv.ms/b/s!AoN-rrIppbFxieAoqOL6OcWoRLLMrg?e=7MRuvi" download>Download my CV</a>
     <br> <br>
@@ -33,6 +31,3 @@ I completed my PhD in Finance at **Tel-Aviv University in 2022**. My primary are
 </div>
 
 
-<div class="cv-widget">
-    <a href="https://1drv.ms/b/s!AoN-rrIppbFxidBkFcw1p5XGwOQZew?e=L7cw87" download>Download my CV</a>
-</div>
