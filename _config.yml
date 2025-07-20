@@ -223,7 +223,6 @@ plugins:
   - jekyll-imagemagick
   - jekyll-jupyter-notebook
   - jekyll-link-attributes
-  - jekyll-minifier
   - jekyll-paginate-v2
   - jekyll/scholar
   - jekyll-sitemap
@@ -239,13 +238,10 @@ defaults:
       sitemap: false
 
 # -----------------------------------------------------------------------------
-# Jekyll Minifier
-# -----------------------------------------------------------------------------
-
-jekyll-minifier:
-  exclude: ['robots.txt']
-  uglifier_args:
-    harmony: true
+# # -----------------------------------------------------------------------------
+# 
+#   exclude: ['robots.txt']
+#     harmony: true
 
 # -----------------------------------------------------------------------------
 # Jekyll Archives
