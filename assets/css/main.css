@@ -1302,5 +1302,14 @@ ul.timeline li::before {
      color: var(--global-text-color);
 }
 */
+.profile {
+  width: 40% !important;
+  max-width: 500px !important;
+}
+.profile img {
+  max-width: 100% !important;
+  width: 100% !important;
+  height: auto !important;
+}
 
 /*# sourceMappingURL=main.css.map */
