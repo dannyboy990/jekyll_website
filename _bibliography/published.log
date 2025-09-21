@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.1.19)  30 JUN 2025 17:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.1.19)  21 SEP 2025 17:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**C:/Users/danie/OneDrive/Documents/GitHub/jekyll_website_new/_bibliography/pub
-lished.bib
+**C:/Users/danie/OneDrive/Documents/GitHub/jekyll_2025/jekyll_website/_bibliogr
+aphy/published.bib
 
-(C:/Users/danie/OneDrive/Documents/GitHub/jekyll_website_new/_bibliography/publ
-ished.bib
+(C:/Users/danie/OneDrive/Documents/GitHub/jekyll_2025/jekyll_website/_bibliogra
+phy/published.bib
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-12-09>
 
@@ -345,7 +345,7 @@ Overfull \hbox (178.87051pt too wide) in paragraph at lines 19--44
  []
 
 
-Overfull \hbox (174.04181pt too wide) in paragraph at lines 19--44
+Overfull \hbox (179.17027pt too wide) in paragraph at lines 19--44
 []\OML/cmm/m/it/10 ; online \OT1/cmr/m/n/10 =
  []
 
@@ -1285,17 +1285,17 @@ Overfull \hbox (20.00006pt too wide) in paragraph at lines 45--59
 
 )
 ! Emergency stop.
-<*> ...yll_website_new/_bibliography/published.bib
+<*> .../jekyll_website/_bibliography/published.bib
                                                   
 *** (job aborted, no legal \end found)
 
  
 Here is how much of TeX's memory you used:
  26 strings out of 473577
- 709 string characters out of 5716317
+ 741 string characters out of 5716317
  402440 words of memory out of 5000000
  23308 multiletter control sequences out of 15000+600000
  558069 words of font info for 36 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 18i,5n,18p,1150b,59s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 18i,5n,18p,1158b,59s stack positions out of 10000i,1000n,20000p,200000b,200000s
 !  ==> Fatal error occurred, no output PDF file produced!

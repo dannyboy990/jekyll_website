@@ -1,0 +1,16 @@
+<style>
+/* Page-scoped override for the About page */
+.profile img{
+  max-width: 380px !important;   /* tweak 320–420 */
+  width: auto !important;
+  height: auto !important;
+  display: block;
+}
+.profile{ margin-left: 24px; }
+
+/* Optional: nicer behavior on phones */
+@media (max-width: 768px){
+  .profile{ float:none; margin: 0 auto 16px auto; text-align:center; }
+  .profile img{ margin: 0 auto; max-width: 240px !important; }
+}
+</style>

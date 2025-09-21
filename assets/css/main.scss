@@ -2,10 +2,8 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 @charset "utf-8";
-
 // Dimensions
 $max-content-width: {{ site.max_width }};
-
 @import
   "variables",
   "themes",
@@ -14,3 +12,14 @@ $max-content-width: {{ site.max_width }};
   "distill",
   "cv"
 ;
+
+.profile {
+    width: 40% !important;
+    max-width: 500px !important;
+    
+    img {
+        max-width: 100% !important;
+        width: 100% !important;
+        height: auto !important;
+    }
+}
