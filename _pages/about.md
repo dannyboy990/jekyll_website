@@ -29,7 +29,7 @@ The Hong Kong Polytechnic University — School of Accounting and Finance
 **Research focus:** *I study how global capital flows interact with financial intermediaries to shape exchange rates, asset prices, and the transmission of monetary policy.*
 
 <div style="clear: both;"></div>
-[daniel.nathan@polyu.edu.hk](mailto:daniel.nathan@polyu.edu.hk) &nbsp;|&nbsp; [PolyU Faculty Profile](https://www.polyu.edu.hk/af/people/academic-staff/prof-daniel-nathan/?sc_lang=en) &nbsp;|&nbsp; [Download CV](https://1drv.ms/b/c/71b1a529b2ae7e83/EevQFG5GEsdOjzM7VSCafL0B4S-ci7isT7zuzpFKUXfyhg?e=VS4aVI)
+[daniel.nathan@polyu.edu.hk](mailto:daniel.nathan@polyu.edu.hk) &nbsp;|&nbsp; [PolyU Faculty Profile](https://www.polyu.edu.hk/af/people/academic-staff/prof-daniel-nathan/?sc_lang=en) &nbsp;|&nbsp; [Download CV](https://1drv.ms/b/c/71b1a529b2ae7e83/EcUMwlON8ONDk4B7oKyeL_kBtSwSPAQv3mxYEKQGDu_QIg?e=ixX22B)
 
 ---
 I am an Assistant Professor of Finance at **The Hong Kong Polytechnic University (PolyU)**, which I joined in 2025. My research sits at the intersection of finance and macroeconomics, with particular focus on exchange rates, monetary policy transmission, and international capital flows.
