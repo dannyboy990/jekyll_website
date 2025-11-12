@@ -1,4 +1,4 @@
-PWD C:\Users\danie\OneDrive\Documents\GitHub\jekyll_website_new\_bibliography
+PWD D:\OneDrive\GitHub\jekyll_website\_bibliography
 INPUT C:\Users\danie\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT C:\Users\danie\OneDrive\Documents\GitHub\jekyll_website_new\_bibliography\papers.bib
+INPUT D:\OneDrive\GitHub\jekyll_website\_bibliography\papers.bib
 OUTPUT papers.log
