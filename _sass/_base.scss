@@ -832,6 +832,12 @@ progress::-moz-progress-bar {
   background-color: var(--global-theme-color);
 }
 
+.additional-note {
+  color: var(--global-text-color);
+  font-style: italic;
+  margin-top: 0.25rem;
+}
+
 .progress-container {
   width: 100%;
   background-color: transparent;
