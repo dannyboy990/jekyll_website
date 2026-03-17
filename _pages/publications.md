@@ -23,5 +23,11 @@ nav_order: 1
 
 </div>
 
+# Permanent Working Papers
 
+<div class="publications">
+
+{% bibliography --file permanent.bib %}
+
+</div>
 
