@@ -26,8 +26,22 @@ gems/
 HOME/gems/gems/ffi-1.17.0/ext/ffi_c/libffi-x86_64-linux-gnu/.libs/libffi.la
 
 # Log and error files
-*.txt
 jekyll_er*
 nodejs_error*
-path_output.txt
 install_error*.txt
+jekyll_log.txt
+jekyll_output.txt
+output.txt
+path_output.txt
+
+# Python virtual environment
+venv/
+
+# Claude Code project notes
+CLAUDE.md
+
+# Editor backup files
+*.md~
+*.un~
+*.save
+*~

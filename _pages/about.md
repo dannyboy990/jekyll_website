@@ -26,13 +26,13 @@ social: true
 Assistant Professor of Finance  
 The Hong Kong Polytechnic University — School of Accounting and Finance
 
-**Research focus:** *I study how global capital flows interact with financial intermediaries to shape exchange rates, asset prices, and the transmission of monetary policy.*
+**Research focus:** *I study the plumbing of financial markets: how institutional constraints, settlement mechanics, and capital flow dynamics generate predictable patterns in asset prices.*
 
-<div style="clear: both;"></div>
-[daniel.nathan@polyu.edu.hk](mailto:daniel.nathan@polyu.edu.hk) &nbsp;|&nbsp; [PolyU Faculty Profile](https://www.polyu.edu.hk/af/people/academic-staff/prof-daniel-nathan/?sc_lang=en) &nbsp;|&nbsp; [Download CV](https://1drv.ms/b/c/71b1a529b2ae7e83/IQAzphBJ1AqETYBiMMBMS23yAcjJJCNvEwqd30ZQ4pZO_0w?e=V6qLjf)
+<div style="clear: both; margin-bottom: 1.5rem;"></div>
+[daniel.nathan@polyu.edu.hk](mailto:daniel.nathan@polyu.edu.hk) &nbsp;|&nbsp; [PolyU Faculty Profile](https://www.polyu.edu.hk/af/people/academic-staff/prof-daniel-nathan/?sc_lang=en) &nbsp;|&nbsp; [Download CV](https://1drv.ms/b/c/71b1a529b2ae7e83/IQCI7hzAjLbFSaj5FAR-K7HAAcAU6ncT4Y2kbbdRZ09qo2k?e=gbVwio)
 
 ---
-I am an Assistant Professor of Finance at **The Hong Kong Polytechnic University (PolyU)**, which I joined in 2025. My research sits at the intersection of finance and macroeconomics, with particular focus on exchange rates, monetary policy transmission, and international capital flows.
+I am an Assistant Professor of Finance at **The Hong Kong Polytechnic University (PolyU)**, which I joined in 2025. My research sits at the intersection of empirical asset pricing and international finance, with a focus on how institutional frictions shape return patterns in equity and currency markets.
 
 Previously, I was a Senior Research Economist in the **Monetary Department at the Bank of Israel** (2007–2025) and a Visiting Scholar at **The Wharton School** (2022–2024) sponsored by Itay Goldstein. I completed my PhD in Finance at **Tel-Aviv University** in 2022. I am affiliated with the Bank of Israel where I am a **Research Fellow** and I am a member of the **Macro Finance Society**.
 
