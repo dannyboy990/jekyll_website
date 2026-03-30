@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper ["The Intramonth Momentum Cycle"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6426026) was covered in **Bloomberg Opinion** (Matt Levine, Money Stuff), March 30, 2026.
+Our paper ["The Intramonth Momentum Cycle"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6426026) was covered in [**Bloomberg Opinion**](https://www.bloomberg.com/opinion/newsletters/2026-03-30/private-assets-are-coming-to-401-k-s) (Matt Levine, Money Stuff), March 30, 2026.
