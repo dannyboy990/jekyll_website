@@ -197,6 +197,9 @@
             <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
           {%- endif %}
           </div>
+{%- if entry.media %}
+    <div class="media-mention"><strong>Media:</strong> {{ entry.media }}</div>
+{%- endif %}
 {%- if entry.note %}
     <div class="additional-note">{{ entry.note | strip_newlines }}</div>
 {%- endif %}
