@@ -94,10 +94,10 @@ html[data-theme=dark] .repo-img-dark {
  * Content
  ******************************************************************************/
 .additional-note {
-  font-size: 18px;
+  font-size: 0.875rem;
   color: #B617AE;
   font-style: italic;
-  margin-top: 10px;
+  margin-top: 5px;
 }
 
 .media-mention {
