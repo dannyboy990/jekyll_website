@@ -29,7 +29,7 @@ The Hong Kong Polytechnic University — School of Accounting and Finance
 **Research focus:** *I study the plumbing of financial markets: how institutional constraints, settlement mechanics, and capital flow dynamics generate predictable patterns in asset prices.*
 
 <div style="clear: both; margin-bottom: 1.5rem;"></div>
-[daniel.nathan@polyu.edu.hk](mailto:daniel.nathan@polyu.edu.hk) &nbsp;|&nbsp; [PolyU Faculty Profile](https://www.polyu.edu.hk/af/people/academic-staff/prof-daniel-nathan/?sc_lang=en) &nbsp;|&nbsp; [Download CV](https://1drv.ms/b/c/71b1a529b2ae7e83/IQB4GCMMtZ-DSqHe6fzfvDyFAfAilGGhmeRLF4vnxG3tbY8?e=X7FFi4)
+[daniel.nathan@polyu.edu.hk](mailto:daniel.nathan@polyu.edu.hk) &nbsp;|&nbsp; [PolyU Faculty Profile](https://www.polyu.edu.hk/af/people/academic-staff/prof-daniel-nathan/?sc_lang=en) &nbsp;|&nbsp; [Download CV]({{ '/assets/pdf/CV_Daniel_Nathan_July_2026.pdf' | relative_url }})
 
 ---
 I am an Assistant Professor of Finance at **The Hong Kong Polytechnic University (PolyU)**, which I joined in 2025. My research sits at the intersection of empirical asset pricing and international finance, with a focus on how institutional frictions shape return patterns in equity and currency markets.
