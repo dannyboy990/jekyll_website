@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Matti Suominen will present our paper ["The Intramonth Momentum Cycle"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6426026), with Joni Tasa, at the inaugural [Aarhus Finance Forum](https://econ.au.dk/aarhus-finance-forum-2026), August 2-4, 2026.
+Matti Suominen will present our paper ["The Intramonth Momentum Cycle"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6426026), with Joni Tasa, at the [Aarhus Finance Forum](https://econ.au.dk/aarhus-finance-forum-2026), August 2-4, 2026.
