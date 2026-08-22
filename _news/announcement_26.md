@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New working paper: ["The Liquidity-Demand Component of the Factor Zoo"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6909918), with Matti Suominen, is now available, along with an [internet appendix]({{ '/assets/pdf/The_Liquidity_Demand_Component_of_the_Factor_Zoo_Appendix.pdf' | relative_url }}).
+New working paper: ["Anomalies on a Schedule: Month-End Liquidity Demand and the Factor Zoo"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6909918), with Matti Suominen, is now available, along with an [internet appendix]({{ '/assets/pdf/Anomalies_on_a_Schedule_Appendix.pdf' | relative_url }}).
