@@ -14,6 +14,12 @@ on:
 permissions:
   contents: write
 
+# Cancel an in-progress deploy when a newer commit is pushed, so an older
+# build can never finish last and overwrite the site.
+concurrency:
+  group: deploy-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   deploy:
     # available images: https://github.com/actions/runner-images#available-images
