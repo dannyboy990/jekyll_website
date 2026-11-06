@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper ["Capital Inflow Shocks and Convenience Yields"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5272033), with Nadav Ben Zeev and Noam Ben-Ze'ev, has been accepted for presentation at the **Sovereign Bond Markets in Geopolitical Storms** conference in Luxembourg City, June 2–3, 2026.
+Our paper ["When a Market Changes Hands: Dollar Funding and the Price of a Domestic Safe Asset"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5272033), with Nadav Ben Zeev and Noam Ben-Ze'ev, has been accepted for presentation at the **Sovereign Bond Markets in Geopolitical Storms** conference in Luxembourg City, June 2–3, 2026.

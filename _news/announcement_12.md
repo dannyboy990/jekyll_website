@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-I'm excited to share our new working paper ["Capital Inflow Shocks and Convenience Yields"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5272033), co-authored with Nadav Ben Zeev and Noam Ben-Z'eev. 
+I'm excited to share our new working paper ["When a Market Changes Hands: Dollar Funding and the Price of a Domestic Safe Asset"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5272033), co-authored with Nadav Ben Zeev and Noam Ben-Z'eev. 
 
 
